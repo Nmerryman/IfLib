@@ -1,0 +1,2 @@
+# IfLib
+This is a library I developed upon request to (only) pull data from a web server for a mobile with a private api. The intent was for this library to be able to be used as the basis for an archiver. Due to the private nature of the api, any details can change at any point requiring an update to the library to account for it.
